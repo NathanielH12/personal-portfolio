@@ -1,0 +1,32 @@
+#pomo-image {
+    height: 200px;
+}
+
+* {
+    font-family: playFair Display;
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: lightgray;
+}
+
+h2 {
+    font-weight: 500;
+    background-color: gainsboro;
+}
+
+h3 {
+    font-weight: 200
+}
+
+.project-title {
+    font-weight: 500;
+}
+
+h4 {
+    font-weight: 200;
+}
+
+
+
